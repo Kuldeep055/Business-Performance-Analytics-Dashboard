@@ -1,4 +1,4 @@
-# 📊 Sales Intelligence Dashboard (Power BI)
+# Business Performance Analytics Dashboard
 
 ## 🚀 Project Overview
 
