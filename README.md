@@ -1,7 +1,7 @@
-📊 Parivartan Project – Power BI Data Analytics Dashboard
+📊 Sales Intelligence Dashboard – Power BI Data Analytics Dashboard
 🔍 About the Project
 
-Parivartan Project is an end-to-end Power BI data analytics dashboard developed to convert raw data into actionable business insights.
+Sales Intelligence Dashboard is an end-to-end Power BI data analytics dashboard developed to convert raw data into actionable business insights.
 The project demonstrates skills in data cleaning, data modeling, DAX calculations, and interactive dashboard design.
 
 This dashboard enables stakeholders to monitor key performance indicators (KPIs), identify trends, and support data-driven decision-making.
