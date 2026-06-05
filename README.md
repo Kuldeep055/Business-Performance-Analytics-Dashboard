@@ -1,41 +1,100 @@
-📊 Sales Intelligence Dashboard – Power BI Data Analytics Dashboard
-🔍 About the Project
+# 📊 Sales Intelligence Dashboard (Power BI)
 
-Sales Intelligence Dashboard is an end-to-end Power BI data analytics dashboard developed to convert raw data into actionable business insights.
-The project demonstrates skills in data cleaning, data modeling, DAX calculations, and interactive dashboard design.
+## 🚀 Project Overview
 
-This dashboard enables stakeholders to monitor key performance indicators (KPIs), identify trends, and support data-driven decision-making.
+This project is an end-to-end Business Intelligence dashboard built using Power BI to analyze retail sales performance, customer behavior, and operational efficiency.
 
-🎯 Objective
+The dashboard transforms raw data into actionable insights, enabling businesses to make data-driven decisions and optimize profitability.
 
-Analyze business data using Power BI
+---
 
-Build an interactive and insightful dashboard
+## 📌 Key Features
 
-Demonstrate real-world data analyst skills
+* 📈 **Sales Performance Analysis**
 
-Create a strong portfolio project for job applications
+  * Total Sales: $1.55M+
+  * Profit Margin: 27.5%
+  * Category & product-level insights
 
-🧠 Skills Demonstrated
+* 👥 **Customer Analytics**
 
-Data Analysis & Visualization
+  * Customer segmentation by region and state
+  * Customer Lifetime Value (LTV) analysis
 
-Power BI Desktop
+* 📦 **Product Insights**
 
-Power Query (ETL)
+  * Top-performing and low-performing products
+  * Quantity and profitability tracking
 
-DAX (Measures & Calculations)
+* 🔍 **Market Basket Analysis**
 
-Data Modeling (Relationships, Star Schema)
+  * Identifies frequently purchased product combinations
+  * Helps improve cross-selling strategies
 
-Business Insight Generation
+* ⚙️ **What-If Scenario Analysis**
 
-🛠️ Tools & Technologies
+  * Dynamic simulation of shipping quantity
+  * Analyze impact on shipping costs
+  * Supports cost optimization decisions
 
-Microsoft Power BI Desktop
+---
 
-DAX
+## 🛠️ Tools & Technologies
 
-Power Query Editor
+* Power BI
+* DAX (Data Analysis Expressions)
+* Data Modeling (Star Schema)
+* Interactive Dashboard Design
 
-Data Modeling Techniques
+---
+
+## 📊 Dashboard Highlights
+
+* KPI Cards for quick insights
+* Map visualization for regional analysis
+* Treemap for category-level breakdown
+* Bar & column charts for performance comparison
+* Interactive filters and slicers
+
+---
+
+## 💡 Business Impact
+
+This dashboard helps stakeholders to:
+
+* Identify profitable products and regions
+* Understand customer purchasing behavior
+* Optimize shipping and operational costs
+* Improve cross-selling opportunities
+* Make faster, data-driven decisions
+
+---
+
+## 📂 Project Structure
+
+* Dataset (Retail Sales Data)
+* Power BI File (.pbix)
+* Dashboard Visualizations
+
+---
+
+## 🎯 Key Learnings
+
+* Hands-on experience with DAX and data modeling
+* Designing user-friendly and interactive dashboards
+* Applying business analytics concepts like LTV and market basket analysis
+* Implementing real-world scenario analysis using What-If parameters
+
+---
+
+## 📌 Future Improvements
+
+* Integration with real-time data sources
+* Advanced predictive analytics
+* Deployment using Power BI Service
+
+---
+
+## 🤝 Connect With Me
+
+If you found this project interesting or have suggestions, feel free to connect and share your feedback!
